@@ -1,5 +1,5 @@
 
-// import "./App.css";
+import "./App.css";
 import TodoFeature from "./features/Todo/pages";
 
 function App() {

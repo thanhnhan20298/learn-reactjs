@@ -10,13 +10,9 @@ TodoList.defaultProps ={
 }
 function TodoList({todoList}) {
     return (
-        <ul>
-            {todoList.map(todo =>(
-                <li key={todo.id}>
-                    {todo.title}
-                </li>
-            ))}
-        </ul>
+        <div>
+            
+        </div>
     );
 }
 
